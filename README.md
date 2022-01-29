@@ -1,4 +1,4 @@
-# Data-ANZ VirtualExperiance
+# Data@ANZ Virtual Experiance Program
 This repo contains the notebooks created to find the solutions to the given problems in the Data@ANZ virtual experience program. The given data set contains account transactions of 100 hypothetical customers 
 
 1. Exploratory Data Analysis  - Segment the data set to draw unique insights.
